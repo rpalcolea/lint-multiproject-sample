@@ -1,0 +1,5 @@
+task printMessage {
+    doLast {
+        println "test something else"
+    }
+}
